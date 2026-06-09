@@ -7,11 +7,6 @@ It is python script that runs on raspberrypi, it parses the mawaqit website and 
 
 ## Installation
 
-1. Clone the repo
-   ```sh
-   git clone git@github.com:motazEmad/azaan-py.git
-    ```
-   
 in azaan.py replace the url of mawaqit of your mosque
 ```
 url = "https://mawaqit.net/en/{mosqueurl}"
